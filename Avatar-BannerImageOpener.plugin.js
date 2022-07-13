@@ -3,7 +3,7 @@
  * @description Allows you the ability to click on a users avatar or banner on their profile page which will open an external browser page to the image
  * @version 1.0
  * @author Peekay
- * @source https://github.com/Sidewinderr/Avatar-BannerImageOpener
+ * @source https://github.com/Peekaey/Avatar-BannerImageOpener
  */
 
 
