@@ -13,6 +13,9 @@ module.exports = class Main {
     start() {
         document.addEventListener("click", this.OnClickFunction);
     }
+    stop() {
+        document.removeEventListener("click", this.OnClickFunction)
+    }
 
     OnClickFunction({target}) {
 
