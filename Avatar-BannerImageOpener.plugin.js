@@ -29,7 +29,7 @@ module.exports = class Main {
 
         // If the user clicks on a banner, will run this statement
 
-        if ( target.classList.contains('banner-1YaD3N') ) {
+        if ( target.classList.contains('banner-2boKnS') ) {
             var bannerUrl = target.style.backgroundImage
             var [ _, bannerLink, _] = bannerUrl.split("\"")
             window.open(bannerLink)
